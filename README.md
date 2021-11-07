@@ -9,6 +9,6 @@ UI 部分採用 UI 設計個人組 Frank Peng 的投稿，前端部分使用 Rea
 
 ### 頁面瀏覽
 
-![image](https://imgur.com/HOg5zWm)
-![image](https://imgur.com/jXEIn5R)
-![image](https://imgur.com/ycPcft5)
+![Imgur](https://i.imgur.com/HOg5zWm.png)
+![Imgur](https://i.imgur.com/jXEIn5R.png)
+![Imgur](https://i.imgur.com/ycPcft5.png)
