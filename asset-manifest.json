@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.37722a8a.chunk.css",
+    "main.js": "/static/js/main.198c40db.chunk.js",
+    "main.js.map": "/static/js/main.198c40db.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1c280b97.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1c280b97.js.map",
+    "static/js/2.574f5bff.chunk.js": "/static/js/2.574f5bff.chunk.js",
+    "static/js/2.574f5bff.chunk.js.map": "/static/js/2.574f5bff.chunk.js.map",
+    "static/js/3.cffc3e17.chunk.js": "/static/js/3.cffc3e17.chunk.js",
+    "static/js/3.cffc3e17.chunk.js.map": "/static/js/3.cffc3e17.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.37722a8a.chunk.css.map": "/static/css/main.37722a8a.chunk.css.map",
+    "static/js/2.574f5bff.chunk.js.LICENSE.txt": "/static/js/2.574f5bff.chunk.js.LICENSE.txt",
+    "static/media/Activity.a4adc702.png": "/static/media/Activity.a4adc702.png",
+    "static/media/Hotel.83e939df.png": "/static/media/Hotel.83e939df.png",
+    "static/media/Restaurant.692a94e7.png": "/static/media/Restaurant.692a94e7.png",
+    "static/media/ScenicSpot.d9c25bf4.png": "/static/media/ScenicSpot.d9c25bf4.png",
+    "static/media/icon_logo.bbf077d6.svg": "/static/media/icon_logo.bbf077d6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c280b97.js",
+    "static/js/2.574f5bff.chunk.js",
+    "static/css/main.37722a8a.chunk.css",
+    "static/js/main.198c40db.chunk.js"
+  ]
+}
